@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Math Magicians</b></h1>
+  <h1><b>Todo List</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -26,10 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Meals <a name="about-project"></a>
+# 📖 Todo List <a name="about-project"></a>
 
-**Math Magician** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-Make simple calculations and also Read a random math-related quote.
+**Todo List** is a website I have build to consolidate my knowledge on React, components, props, state, and hooks, by following a tutorial.
 
 ## 🛠 Built With <a name="built-with"></a>
 
