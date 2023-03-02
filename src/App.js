@@ -1,13 +1,14 @@
 import './App.css';
-// import Calculator from './components/Calculator';
-
-import HookCounter from './components/HookCounter';
+import Header from './components/Header';
+import TodosLogic from './components/TodosLogic';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <HookCounter />
-
+      <Navbar />
+      <Header />
+      <TodosLogic />
     </div>
   );
 }

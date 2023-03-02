@@ -1,49 +1,15 @@
-body {
-  display: flex;
-  justify-content: center;
-  font-weight: bolder;
+.App {
+  background-color: aqua;
+  border: 2px solid black;
 }
 
-.main-wrapper {
-  width: 700px;
-  height: 800px;
-  border: 1px solid black;
-  background-color: white;
-}
-
-.input {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 5rem;
-  color: white;
-  font-size: 40px;
-  font-weight: bolder;
-  background-color: rgb(71, 82, 82);
-}
-
-ul {
-  margin-top: -0;
-  margin-right: 40px;
-}
-
-.second {
-  display: flex;
-  justify-content: center;
+li {
   list-style: none;
-  margin-top: -17px;
 }
 
-.second li button {
-  width: 175px;
-  height: 7rem;
-}
-
-.second li.zero button {
-  width: 350px;
-}
-
-.yellow {
-  background-color: rgb(255, 166, 0);
+.textInput {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #dfdfdf;
+  outline: none;
 }
