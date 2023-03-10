@@ -141,7 +141,6 @@ I would like to thank:
 - [Microverse](www.microverse.com)
 - [API service](https://www.themealdb.com/api.php)
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
