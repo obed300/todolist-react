@@ -80,7 +80,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/obed300/math-magicians.git
+  git clone https://github.com/obed300/todolist-react.git
 ```
 
 ### Install
