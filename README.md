@@ -7,7 +7,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 My Meals ](#-my-meals-)
+- [📖 My Todo ](#-my-meals-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [💻 Getting Started ](#-getting-started-)
@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
 Install all the dependencys required for the website, by using the command below
 
 ```sh
-  cd math-magician
+  cd todolist-react
 ```
 
 ### Usage
